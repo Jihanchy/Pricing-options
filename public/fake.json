@@ -1,0 +1,13 @@
+[
+    {"name": "Alice", "math_marks": 78, "physics_marks": 82},
+    {"name": "Bob", "math_marks": 85, "physics_marks": 88},
+    {"name": "Charlie", "math_marks": 92, "physics_marks": 91},
+    {"name": "David", "math_marks": 70, "physics_marks": 75},
+    {"name": "Eva", "math_marks": 88, "physics_marks": 90},
+    {"name": "Frank", "math_marks": 94, "physics_marks": 89},
+    {"name": "Grace", "math_marks": 76, "physics_marks": 80},
+    {"name": "Hannah", "math_marks": 81, "physics_marks": 84},
+    {"name": "Isaac", "math_marks": 89, "physics_marks": 92},
+    {"name": "Jack", "math_marks": 73, "physics_marks": 78}
+  ]
+  
