@@ -18,7 +18,7 @@ const Navbar = () => {
                 {open?<FaWindowClose />:<RiMenu2Line />}
                 
             </div>
-            <ul className={`${open?'top-6 left-7':'-top-60 left-7'} duration-1000 md:flex md:bg-white bg-slate-400 text-white md:rounded-none rounded-2xl px-6 absolute md:static`}>
+            <ul className={`${open?'top-6 left-7':'-top-60 left-7'} duration-1000 md:flex md:bg-white bg-slate-400 text-white md:text-black md:rounded-none rounded-2xl px-6 absolute md:static`}>
                 {
                     routes.map(route => <Link route={route}></Link>)
                 }
